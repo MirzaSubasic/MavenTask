@@ -16,6 +16,6 @@ Task 8 - update version
     2. mvn install
     
 Task 9 - jars are now called
-    1. MavenTask-1.1-SNAPSHOT.pom
-    2. child1-1.1-SNAPSHOT.pom
-    3. child2-1.1-SNAPSHOT.pom
+
+    1. child1-1.1-SNAPSHOT.jar
+    2. child2-1.1-SNAPSHOT.jar
