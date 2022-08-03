@@ -21,4 +21,4 @@ Task 9 - jars are now called
     2. child2-1.1-SNAPSHOT.jar
 
 
-Created webhook which will notify jenkins about all events in this repository
+Created webhook which will notify jenkins about all events in this repository.
