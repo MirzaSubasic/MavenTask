@@ -23,3 +23,4 @@ Task 9 - jars are now called
 
 
 Created webhook which will notify jenkins about all events in this repository
+Jenkins pipeline will trigger build every 15 minutes
